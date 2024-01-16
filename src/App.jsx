@@ -1,11 +1,11 @@
 import './App.css'
-import Header from './header/Header'
+import Encabezado from './header/Headerr'
 function App() {
 
 
   return (
       <div>
-        <Header/>
+        <Encabezado/>
       </div>
 
   )

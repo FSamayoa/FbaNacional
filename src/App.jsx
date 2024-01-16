@@ -1,11 +1,11 @@
 import './App.css'
-import Repaso from './repaso/Repaso'
+import Header from './header/Header'
 function App() {
 
 
   return (
       <div>
-        <Repaso></Repaso>
+        <Header/>
       </div>
 
   )

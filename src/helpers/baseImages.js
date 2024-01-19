@@ -57,12 +57,12 @@ export const BDImages = [
     },
     {
       equipo:"Pumas Acatlan",
-      imagen:"https://i.imgur.com/AztAc8P.png",
+      imagen:"https://i.imgur.com/ZoYwp8Q.png",
       id:12
     },
     {
-      equipo:"Leones Anahuac",
-      imagen:"https://i.imgur.com/MgZ9p4y.png",
+      equipo:"Aztecas UDLAP",
+      imagen:"https://i.imgur.com/ZoYwp8Q.png",
       id:13
     },
     {
@@ -93,7 +93,7 @@ export const BDImages = [
       },
     {
         equipo:"Leones Anahuac CUN",
-        imagen:"",
+        imagen:"https://i.imgur.com/MgZ9p4y.png",
         id:20
       },
     {

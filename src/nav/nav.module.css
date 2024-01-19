@@ -25,15 +25,17 @@
     flex-wrap: wrap;
   }
 
-  .logoContainer img {
+  .logoContainer {
     max-height: 5vh;
+    padding: 15px;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
   .image{
-    padding: 2px;
+    padding-right: 8px;
     display: flex;
-    justify-content: space-between;
+
+    height: 35px;
  
   } 
 
@@ -41,8 +43,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2px;
+    padding: 15px;
     flex-wrap: wrap;
+    flex-direction: row;
+
     
   }
 /* 

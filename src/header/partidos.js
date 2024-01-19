@@ -3,7 +3,7 @@ export const BDPartidos = [
     P: 1,
     Semana: 1,
     local: "Aguilas Blancas",
-    visita: "Burros blancos",
+    visita: "Burros Blancos",
     ResLocal: 10,
     ResVisita: 17,
     live: true,
